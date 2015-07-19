@@ -1,0 +1,11 @@
+* Recipes and Cooking Techniques
+
+This is my repository of recipes and cooking techniques that I've
+cooked/learned.
+
+The original source should be included in each file. As well as when I've cooked
+something and how it turned out.
+
+** Sharing
+[[http://creativecommons.org/licenses/by-nc/4.0/][https://i.creativecommons.org/l/by-nc/4.0/88x31.png]]
+This work is licensed under a [[http://creativecommons.org/licenses/by-nc/4.0/][Creative Commons Attribution-NonCommercial 4.0 International License]]
