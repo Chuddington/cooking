@@ -3,6 +3,23 @@
 Until now I've looked at three sources for the recipe:
 
 - [[http://www.seriouseats.com/recipes/2015/02/sicilian-eggplant-pinenut-caponata-vegan-recipe.html][Serious Eats]]
+  - 1 cup pine nuts
+  - 1/2 cup extra-virgin olive oil, plus more for serving
+  - 1 small globe eggplant (about 1 pound), cut into 3/4-inch dice
+  - Kosher salt and freshly ground black pepper
+  - 4 scallions, white parts only, sliced into 1/4-inch segments
+  - 1 rib celery, finely diced
+  - 1 red bell pepper, cut into 1/2-inch dice
+  - 4 medium cloves garlic, thinly sliced
+  - 2 tablespoons minced fresh mint leaves, plus more for garnish
+  - 2 tablespoons minced fresh parsley leaves, plus more for garnish
+  - 2 tablespoons tomato paste
+  - 1/2 teaspoon ground cinnamon
+  - 1/2 cup raisins
+  - 2 tablespoons capers, drained and rinsed
+  - 2 tablespoons sugar
+  - 2 tablespoons red wine vinegar
+  - 2 tablespoons balsamic vinegar
 - [[http://www.bbcgoodfood.com/recipes/2220689/caponata][BBC Goodfood]]
 - [[http://www.jamieoliver.com/recipes/vegetables-recipes/incredible-sicilian-aubergine-stew-caponata/#1yzL18FgJMrHMZ76.97][Jamie Oliver]]
 
