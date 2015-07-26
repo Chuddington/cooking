@@ -23,4 +23,10 @@ Until now I've looked at three sources for the recipe:
 - [[http://www.bbcgoodfood.com/recipes/2220689/caponata][BBC Goodfood]]
 - [[http://www.jamieoliver.com/recipes/vegetables-recipes/incredible-sicilian-aubergine-stew-caponata/#1yzL18FgJMrHMZ76.97][Jamie Oliver]]
 
+
+* cooked
+** <2015-07-25 Sam> 
+Recipe from serious eats but it was a tad too sweet so I would reduce the amount
+of sugar the next time.
+
 * :eggplant:italian:sicily:olive oil:
