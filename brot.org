@@ -1,0 +1,11 @@
+* Basics
+** Temperatur
+Zwischen 80 und 100°C
+** Salzgehalt
+ca. 2 % des Mehlgewichts
+** Hefe
+von 2 - 3 % (schneller aufgehendes Brot) des Mehlgewichts
+** Wassergehalt
+- 50-57 % "steifes" Brot. z.b. Bretzeln oder Bagel
+- 57-65 % standard z.b. Baguette, "normales" Brot
+- 65-80 % rustikal z.b. Ciabatta, Pizza
